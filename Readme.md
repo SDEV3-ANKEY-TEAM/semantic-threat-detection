@@ -43,7 +43,7 @@ python main.py
 
 ---
 
-## Í## \xcd9c력 결과
+## 출력 결과
 
 - `data/llm_rag_results.json`: 각 로그에 대한 LLM 추론 결과가 저장됩니다.
 - `llm_output`: 'uacf5격' 또는 'uc815상'으로 시작하는 LLM의 판단

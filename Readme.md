@@ -1,4 +1,4 @@
-# 🧐 LLM + RAG 기반 보안 시나리오 추론 시스템
+# LLM + RAG 기반 보안 시나리오 추론 시스템
 
 이 프로젝트는 보안 이벤트 로그(OTEL 기반)을 전처리하고, RAG(Retrieval-Augmented Generation)을 통해 유사 시나리오를 검색한 뒤 LLM이 공격 여부를 추론하는 시스템입니다.
 

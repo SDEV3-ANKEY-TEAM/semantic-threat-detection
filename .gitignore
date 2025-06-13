@@ -14,11 +14,6 @@ __pycache__/
 *.env
 .env.*
 
-# Data & Results
-data/*.json
-data/*.index
-llm_rag_results.json
-
 # Jupyter & IPython
 .ipynb_checkpoints/
 *.ipynb
@@ -33,3 +28,7 @@ logs/
 #venv
 venv
 __pycache__
+
+.gitignore
+.gitconfig
+.gitattributes

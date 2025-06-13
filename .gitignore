@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+*.env
+.env.*
+
+# Data & Results
+data/*.json
+data/*.index
+llm_rag_results.json
+
+# Jupyter & IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# Mac & OS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+#venv
+venv
+__pycache__
